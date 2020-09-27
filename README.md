@@ -5,8 +5,11 @@ A simple 2D shooter game where player controls a spaceship in space. Players wil
 
 ## Implementation
 Created in Godot 3.2.2 
+
 Galaxy background was downloaded from https://commons.wikimedia.org
+
 Explosion sprite sheet was downloaded from OpenGameArt.org
+
 Other assets were downloaded from kenney.nl
 
 ## References
