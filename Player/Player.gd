@@ -30,3 +30,5 @@ func get_input():
 
 func _on_Timer_timeout():
 	reloaded = true
+
+
