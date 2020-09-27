@@ -1,5 +1,6 @@
 # Space Shooter 
 Project 2 -- Space Shooter, 26 September 2020
+
 A simple 2D shooter game where player controls a spaceship in space. Players will encounter obstaacles and enemies, and will have the ability to shoot missiles to defeat and destroy them.
 
 ## Implementation
