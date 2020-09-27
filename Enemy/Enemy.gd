@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-export var move_probability = 0.5
+export var move_probability = 0.35
 export var shoot_probability = 0.6
 export var speed = 2
 onready var w = int(get_viewport_rect().size.y)
