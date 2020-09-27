@@ -1,6 +1,18 @@
-# Godot-Project-Template
-
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+# Space Shooter 
+Project 2 -- Space Shooter, 26 September 2020
+A simple 2D shooter game where player controls a spaceship in space. Players will encounter obstaacles and enemies, and will have the ability to shoot missiles to defeat and destroy them.
 
 ## Implementation
-Created in Godot 3.2.2
+Created in Godot 3.2.2 
+Galaxy background was downloaded from https://commons.wikimedia.org
+Explosion sprite sheet was downloaded from OpenGameArt.org
+Other assets were downloaded from kenney.nl
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Cadence Low
